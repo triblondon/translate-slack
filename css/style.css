@@ -1,0 +1,17 @@
+.tribtranslate__result {
+	line-height: 1.2;
+}
+
+.tribtranslate__service {
+	color: green;
+	display: inline-block;
+	min-width: 40px;
+	padding-right: 10px;
+	font-size: 10px;
+	text-transform: uppercase;
+}
+.tribtranslate__translatedtext {
+	display: inline;
+	font-style: italic;
+	font-size: 90%;
+}
